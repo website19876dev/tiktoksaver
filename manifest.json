@@ -1,0 +1,22 @@
+{
+  "name": "SaverByZakiy",
+  "short_name": "ZakiySaver",
+  "description": "Downloader Ultra Stealth by Zakiy",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#020617",
+  "theme_color": "#0ea5e9",
+  "icons": [
+    {
+      "src": "https://i.ibb.co/LzNfH9p/zakiy-icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://i.ibb.co/LzNfH9p/zakiy-icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
